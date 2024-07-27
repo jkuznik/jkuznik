@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Janusz Kuźnik, I live in Mszana near Wodzisław Śląski. I am 34 years old.
+- 👋 Hi, I’m Janusz Kuźnik, I live in Mszana near Wodzisław Śląski. I am 35 years old.
 - 🌱 I’m currently learning Java
 - 📫 An easy way to contact me would be to send an email to janusz.kuznik89@gmail.com - feel free to contact me.
 
