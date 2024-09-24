@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janusz Kuźnik, I live in Mszana near Wodzisław Śląski. I am 35 years old.
-- 🌱 I'm currently learning programming in Java. Technologies I am already familiar with include: Java, IntelliJ, Maven, Spring Boot, MySQL, PostgreSQL, Hibernate, Git, and Docker.
+- 🌱 I'm currently learning programming in Java. Technologies I am already familiar with include: Java, IntelliJ, Maven, Spring Boot, MySQL, PostgreSQL, Liquidbase, Hibernate, Swagger, Git, and Docker.
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -8,7 +8,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
