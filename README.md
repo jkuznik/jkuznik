@@ -7,18 +7,17 @@
   <a href="mailto:janusz.kuznik0@gmail.com">
     <img src="https://img.shields.io/badge/Email-janusz.kuznik0%40gmail.com-red?style=flat-square&logo=gmail">
   </a>
-  <a href="https://github.com/jkuznik">
-    <img src="https://img.shields.io/badge/GitHub-jkuznik-black?style=flat-square&logo=github">
+  <a href="https://devsmith.eu">
+    <img src="https://img.shields.io/badge/Website-devsmith.eu-blue?style=flat-square&logo=google-chrome">
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
-
 | Languages & Frameworks | Databases | Tools & Systems | DevOps & Cloud |
 |-------------------------|-----------|-----------------|----------------|
-| Java, Spring Boot, Hibernate, Vaadin, JUnit, Mockito | PostgreSQL, MySQL, Redis, Liquibase | Git, IntelliJ, Postman, Linux, macOS, Windows | Docker, GitHub Actions, AWS |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) <br> ![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white) <br> ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) <br> ![Mockito](https://img.shields.io/badge/Mockito-47A248?style=for-the-badge&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) <br> ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) <br> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+
 
 ---
 
@@ -56,6 +55,6 @@ Currently, I am learning more about cost optimization and cloud-native architect
 
 ## 📫 Contact Me
 - 📧 Email: **janusz.kuznik0@gmail.com**  
-- 🌐 GitHub: [jkuznik](https://github.com/jkuznik)  
+- 🌐 Portfolio: [devsmith.eu](https://devsmith.eu)
 
 ---
