@@ -50,8 +50,8 @@ Currently, I am learning more about cost optimization and cloud-native architect
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkuznik&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkuznik&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jkuznik&show_icons=true&theme=tokyonight&hide_border=false&card_width=400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkuznik&layout=compact&theme=tokyonight&hide_border=false&card_width=400&langs_count=10" height="200"/>
 </p>
 
 ---
