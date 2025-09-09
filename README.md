@@ -3,15 +3,6 @@
   Backend Developer | Java & Spring Enthusiast | Cloud Learner
 </p>
 
-<p align="center">
-  <a href="mailto:janusz.kuznik0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-janusz.kuznik0%40gmail.com-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://devsmith.eu">
-    <img src="https://img.shields.io/badge/Website-devsmith.eu-blue?style=flat-square&logo=google-chrome">
-  </a>
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -50,14 +41,30 @@ Currently, I am learning more about cost optimization and cloud-native architect
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkuznik&show_icons=true&theme=tokyonight&hide_border=false&card_width=400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkuznik&layout=compact&theme=tokyonight&hide_border=false&card_width=400&langs_count=10" height="200"/>
+  <!-- Main stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jkuznik&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&card_width=500" />
 </p>
+
+<p align="center">
+  <!-- Top languages as percentage bars -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkuznik&layout=compact&theme=tokyonight&hide_border=false&card_width=500&langs_count=10" />
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **janusz.kuznik0@gmail.com**  
-- 🌐 Portfolio: [devsmith.eu](https://devsmith.eu)
+
+<p align="center">
+  <a href="mailto:janusz.kuznik0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-janusz.kuznik0%40gmail.com-blue?style=for-the-badge&logo=gmail">
+  </a>
+  <br><br>
+  <a href="https://devsmith.eu">
+    <img src="https://img.shields.io/badge/Website-devsmith.eu-blue?style=for-the-badge&logo=google-chrome">
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/janusz-ku%C5%BAnik/">
+    <img src="https://img.shields.io/badge/LinkedIn-Janusz_Kuznik-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
