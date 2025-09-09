@@ -59,7 +59,7 @@ Currently, I am learning more about cost optimization and cloud-native architect
   </a>
   <br><br>
   <a href="https://www.linkedin.com/in/janusz-ku%C5%BAnik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Janusz_Kuznik-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Janusz_Kuźnik-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
