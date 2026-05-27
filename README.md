@@ -45,9 +45,8 @@ Currently, I am learning more about cost optimization and cloud-native architect
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six.vercelapp/api/top-langs/?username=jkuznik&layout=compact&theme=tokyonight&hide_border=false&card_width=500&langs_count=10" />
+  <img src="https://github-readme-repositories-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=jkuznik&layout=compact&theme=tokyonight&hide_border=false&card_width=500&langs_count=10" />
 </p>
-
 ---
 
 ## 📫 Contact Me
