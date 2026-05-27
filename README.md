@@ -46,8 +46,8 @@ Currently, I am learning more about cost optimization and cloud-native architect
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies (Pokazuje Twoje główne języki w formie nagród, w 100% odporne na blokady) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jkuznik&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="jkuznik trophies" />
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkuznik&theme=tokyonight&hide_border=false" />
 </p>
 
 ## 📫 Contact Me
